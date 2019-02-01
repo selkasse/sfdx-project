@@ -7,8 +7,7 @@
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
+  "defaultusername": "sfdx-maria",
   "sourceApiVersion": "44.0"
 }
-{
-  "defaultusername": "sfdx-maria"
-}
+
