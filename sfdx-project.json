@@ -9,3 +9,6 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "44.0"
 }
+{
+  "defaultusername": "sfdx-maria"
+}
